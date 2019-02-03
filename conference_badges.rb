@@ -2,6 +2,9 @@
 #
 #
 
+def conference_badges(name)
+  "Hello, my name is #{name}."
+end
 
 def batch_badge_creator(array_arg)
   badge_array = array_arg.to_a
