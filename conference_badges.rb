@@ -2,7 +2,7 @@
 #
 #
 
-def conference_badges(name)
+def badge_maker(name)
   "Hello, my name is #{name}."
 end
 
