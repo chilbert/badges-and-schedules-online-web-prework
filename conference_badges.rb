@@ -28,7 +28,7 @@ def printer
 
   batch_badge_creator.each do |item|
     puts item
-    
+
   assign_rooms.each do |item|
     puts item
 
